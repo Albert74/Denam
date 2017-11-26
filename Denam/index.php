@@ -69,7 +69,7 @@
     <div class="col-md-3">
       <h4>Shirts</h4>
     <!--  <img src="shirt1" alt="shirt1" class="img-thumbnail">-->
-      <img src-data="image/products/shirt1.jpg"  class="img-thumbnail"  alt="shirt"  style= "width:200px;  height:200px;"/>
+      <img src="image/products/shirt1.jpg"  class="img-thumbnail"  alt="shirt"  style= "width:200px;  height:200px;"/>
         <p  class="list-price text-danger">List Price <s>¢150</s></p>
       <p class="price">Our Price: ¢100</p>
       <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
@@ -77,7 +77,7 @@
     </div>
     <div class="col-md-3">
       <h4>Shoes</h4>
-      <img src=image/products/shirt2.jpg"" alt="Shirts" class="img-thumbnail" style="width:200px; height:200px;"/>
+      <img src="image/products/shirt2.jpg" alt="Shirts" class="img-thumbnail" style="width:200px; height:200px;"/>
       <p  class="list-price text-danger">List Price <s>¢160</s></p>
       <p class="price">Our Price: ¢90</p>
       <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
@@ -86,84 +86,25 @@
 
     <div class="col-md-3">
       <h4>T-Shirts</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail" style="width:200px; height:200px;"/>
+      <img src="image/shirt1.jpg" alt="Shirts" class="img-thumbnail" style="width:200px; height:200px;"/>
       <p  class="list-price text-danger">List Price <s>¢115</s></p>
       <p class="price">Our Price: ¢111</p>
       <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
         Details</button>
     </div>
+
+
     <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
+      <h4>T-Shirts</h4>
+      <img src="image/shirt1.jpg" alt="Shirts" class="img-thumbnail" style="width:200px; height:200px;"/>
+      <p  class="list-price text-danger">List Price <s>¢115</s></p>
+      <p class="price">Our Price: ¢111</p>
       <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
         Details</button>
     </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src=shirt2.jpg"" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="shirt2.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
-    <div class="col-md-3">
-      <h4>Dress</h4>
-      <img src="ohene.jpg" alt="Shirts" class="img-thumbnail"style="width:200px; height:200px;"/>
-      <p  class="list-price text-danger">List Price <s>¢80</s></p>
-      <p class="price">Our Price: ¢50</p>
-      <button type="button" class="btn-sm btn-success" data-toggel="modal" data-target="details-1">
-        Details</button>
-    </div>
+
+    
+    
 
 
 </div>
